@@ -1,6 +1,6 @@
-# Custom Minecraft Music Disc Mod
+# My First minecraft mod
 
-This is a Minecraft Forge mod project created using MCreator. It includes custom music discs with original `.ogg` audio files.
+This is a Minecraft NeoForge mod project created using MCreator. It includes custom music discs with original `.ogg` audio files.
 
 ## Features
 
