@@ -10,7 +10,7 @@ This is a Minecraft NeoForge mod project created using MCreator. It includes cus
   - "Soda Pop" (K-Pop Demon Hunters OST)
 - Custom creative tab for organizing mod items
 
-## Installation Instructions (For Developers or MCreator Users)
+## Installation Instructions
 
 1. Download and unzip the mod project.
 2. Open MCreator.
