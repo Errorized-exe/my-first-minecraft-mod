@@ -7,7 +7,7 @@ This is a Minecraft NeoForge mod project created using MCreator. It includes cus
 - Music discs playable in jukeboxes
 - Includes:
   - "Bad Apple!!"
-  - "Soda Pop" (K-Pop Demon Hunters OST)
+  - "Soda Pop" (K-Pop Demon Hunters)
 - Custom creative tab for organizing mod items
 
 ## Installation Instructions
